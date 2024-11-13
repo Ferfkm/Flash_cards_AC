@@ -29,7 +29,7 @@ body {
   }
   .cartao__conteudo p {
     padding: 4rem;
-    margin-top: 4rem;
+    margin-top: 1rem;
   }
   .cartao__conteudo h3 {
     color: var(--text-color);
